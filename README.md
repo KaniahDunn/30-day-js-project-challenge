@@ -1,1 +1,2 @@
-# 30-day-js-project-challenge
+# Javascript 30 Day Project Challenge 
+
